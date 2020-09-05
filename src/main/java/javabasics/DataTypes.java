@@ -63,6 +63,12 @@ public class DataTypes {
 		String s4 = "12.33";
 		
 		
+		// Git purpose
+		int abc = 100;
+		String cdc = "Hello Git";
+		System.out.println(abc);
+		System.out.println(cdc);
+		
 		
 		
 	}
