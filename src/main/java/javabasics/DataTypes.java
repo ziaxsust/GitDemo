@@ -69,6 +69,9 @@ public class DataTypes {
 		System.out.println(abc);
 		System.out.println(cdc);
 		
+		double dd = 45.4;
+		System.out.println(dd);
+		
 		
 		
 	}
